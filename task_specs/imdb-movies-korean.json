@@ -1,0 +1,13 @@
+{
+  "task_name": "imdb-korean",
+  "labels": {
+    "0": {
+      "instruction": "작업: 나쁜 영화를 위한 리뷰를 적어라.\n영화 제목: \"",
+      "counter_labels": []
+    },
+    "1": {
+      "instruction": "작업: 좋은 영화를 위한 리뷰를 적어라.\n영화 제목: \"",
+      "counter_labels": []
+    }
+  }
+}

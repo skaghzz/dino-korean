@@ -1,0 +1,17 @@
+{
+  "task_name": "sts-x1-korean",
+  "labels": {
+    "1": {
+      "instruction": "작업: 같은 의미의 두개의 질문을 적으세요.\n질문 1: \"",
+      "counter_labels": []
+    },
+    "0.5": {
+      "instruction": "작업: 비슷한 의미의 두개의 질문을 적으세요.\n질문 1: \"",
+      "counter_labels": []
+    },
+    "0": {
+      "instruction": "작업: 완전히 다른 주제의 두개의 질문을 적으세요.\n질문 1: \"",
+      "counter_labels": []
+    }
+  }
+}
